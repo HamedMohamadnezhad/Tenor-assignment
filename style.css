@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(119, 113, 113);
+}
+.title{
+    text-align: center;
+    font-family: arial;
+    font-size: 50px;
+    color: rgb(73, 8, 8);
+}
+.ser{
+    height: 40px;
+    margin-left: 150px;
+    width: 70%;
+    border-radius: 5%;
+}
+.btn{
+    height: 40px;
+    width: 70px;
+    background-color: rgb(114, 114, 4);
+    border-radius: 5%;
+}
